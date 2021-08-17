@@ -17,7 +17,7 @@ export default function SideDrawer({show,click}) {
             <li className='li_sidedrawer'>
             <Link to='/cart'>
                 <div className='innerLiDiv'>
-                    <div className='cart1'><i className='fas fa-shooping-cart'></i></div>
+                    <div className='cart1'><i className='fas fa-shopping-cart'></i></div>
                     <div className='cart2'> cart</div>
                     <div className='cart3'><span className='sidedrawer_cartbadge'>0</span></div>
                 </div>

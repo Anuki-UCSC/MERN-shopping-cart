@@ -77,8 +77,8 @@
    
 }
 
-.sidedrawer_links{
-    /* background-color: tomato; */
+.sidedrawer_links a{
+    text-decoration: none;
     
 }
 .li_sidedrawer{

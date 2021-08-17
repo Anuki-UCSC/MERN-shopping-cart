@@ -13,7 +13,7 @@ export default function Navbar({click}) {
             {/* navbar menu */}
             <div className="navbar_link">
                 <li>
-                    <Link to='/home'>
+                    <Link to='/cart'>
                         <i className='fas fa-shopping-cart'></i>
                         <span className='spanclass'>Cart</span>
                         <span className='cartlogo_badge'>0</span>
